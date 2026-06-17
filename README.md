@@ -1,6 +1,6 @@
 # YSentry – Phishing Website Detection System
 
-![CI](https://github.com/YasirAli-21/Phishing-Website-Detection/actions/workflows/python-ci.yml/badge.svg?branch=master)
+![CI](https://github.com/Abhi091289/Phishing_website_Detection)
 
 A machine learning web application that detects phishing URLs in real time.
 
@@ -30,8 +30,7 @@ Phishing attacks are one of the most common cyber threats. YSentry analyzes the 
 **Step 1 — Clone the repository**
 
 ```bash
-git clone https://github.com/YasirAli-21/YSentry.git
-cd YSentry
+git clone https://github.com/Abhi091289/Phishing_website_Detection.git
 ```
 
 **Step 2 — Create and activate a virtual environment**
@@ -106,10 +105,3 @@ Open your browser at `http://127.0.0.1:5000`
 - Live threat intelligence feed
 
 ---
-
-## Author
-
-**Yasir Ali** — IT Enthusiast
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAli-21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasisahito)
